@@ -1,0 +1,33 @@
+body {
+    background-color: #FFF8E7; /* Light Cream */
+    color: #4E342E; /* Dark Brown */
+    width: 800px;
+    margin: auto;
+}
+
+h1, h2 {
+    color: #FF6347; /* Tomato Red */
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 40px;
+    text-decoration-line: underline;
+}
+
+footer {
+    background-color: #FF6347; /* Tomato Red */
+    color: #FFF8E7; /* Light Cream */
+}
+
+a {
+    color: #388E3C; /* Green */
+}
+
+ul li, ol li {
+    color: #6D4C41; /* Medium Brown */
+}
+
+ul li:hover, ol li:hover {
+    background-color: #FBC02D; /* Yellow */
+}
